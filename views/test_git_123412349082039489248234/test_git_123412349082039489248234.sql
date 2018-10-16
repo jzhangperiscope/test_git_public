@@ -1,0 +1,1 @@
+select * from account_feature_settings
