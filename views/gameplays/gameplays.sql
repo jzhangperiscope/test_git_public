@@ -1,0 +1,1 @@
+select * from gameplays where 1 = 1
