@@ -1,1 +1,1 @@
-select 1 union select 2 limit 2
+select * from account_feature_settings where 1 = 1
