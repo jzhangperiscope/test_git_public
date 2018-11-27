@@ -1,0 +1,5 @@
+Database Name: Warehouse
+Settings:
+  Materialize View: false
+  Metadata:
+    Owner: admin@periscopedata.com
