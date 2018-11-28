@@ -1,1 +1,1 @@
-select * from archived_sql_alerts limit 5
+select * from public.archived_sql_alerts limit 5
